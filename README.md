@@ -7,6 +7,15 @@
 ## Functional Requirements
 
 1. As a
+2. 
+
+**Given**: 
+
+**When**
+
+**When**
+
+**Then**
 
 ### Example   
    
